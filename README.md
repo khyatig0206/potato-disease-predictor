@@ -1,5 +1,5 @@
 # Potato Disease Predictor
-
+[Google Collab Link](https://colab.research.google.com/drive/1O4xAnlSvxASwV7lrR2mVTNOA-W73Dtvf?usp=sharing)
 ## Project Overview
 The Potato Disease Predictor is a web application designed to detect diseases in potato plants based on images. The application leverages a machine learning model trained on a dataset of potato plant images. The frontend is built using React with Vite, and the backend is served using FastAPI. TensorFlow Serving is used for serving the trained models. Also the model was deployed on AWS. 
 
