@@ -3,8 +3,20 @@
 ## Project Overview
 The Potato Disease Predictor is a web application designed to detect diseases in potato plants based on images. The application leverages a machine learning model trained on a dataset of potato plant images. The frontend is built using React with Vite, and the backend is served using FastAPI. TensorFlow Serving is used for serving the trained models. Also the model was deployed on AWS. 
 
-## Running the Project
+![Screenshot (63)](https://github.com/user-attachments/assets/4f283228-0413-436e-b1f5-b18d733e68bf)
 
+![Screenshot (65)](https://github.com/user-attachments/assets/2633c439-5e02-4161-a524-d2c914047984)
+
+![Screenshot (67)](https://github.com/user-attachments/assets/ebb32212-e67f-486f-96c6-eaa55fd025b3)
+
+![Screenshot (68)](https://github.com/user-attachments/assets/f1abd2b1-8dd5-451e-866c-4d4efade20fb)
+
+![Screenshot (70)](https://github.com/user-attachments/assets/1999eb8c-c11e-45bc-94c2-6e32c7e0dd86)
+
+![Screenshot (69)](https://github.com/user-attachments/assets/0797a665-7f5c-465a-829e-f2d71c463d04)
+
+
+## Running the Project
 ### Prerequisites
 - Node.js and npm installed
 - Python 3.8+ installed
@@ -95,15 +107,3 @@ The trained machine learning model has been deployed on AWS to allow for scalabl
 - Ensure TensorFlow Serving is correctly set up and running to serve the models.
 - Adjust the `models.config` file according to the specific environment and TensorFlow Serving setup.
 - The trained model must be placed in the correct format and directories for the backend to function properly.
-
-![Screenshot (63)](https://github.com/user-attachments/assets/4f283228-0413-436e-b1f5-b18d733e68bf)
-
-![Screenshot (65)](https://github.com/user-attachments/assets/2633c439-5e02-4161-a524-d2c914047984)
-
-![Screenshot (67)](https://github.com/user-attachments/assets/ebb32212-e67f-486f-96c6-eaa55fd025b3)
-
-![Screenshot (68)](https://github.com/user-attachments/assets/f1abd2b1-8dd5-451e-866c-4d4efade20fb)
-
-![Screenshot (70)](https://github.com/user-attachments/assets/1999eb8c-c11e-45bc-94c2-6e32c7e0dd86)
-
-![Screenshot (69)](https://github.com/user-attachments/assets/0797a665-7f5c-465a-829e-f2d71c463d04)
